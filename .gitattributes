@@ -1,0 +1,7 @@
+# Keep line endings exactly as written (MAUD .par files and scripts were made on Windows)
+* -text
+
+# Binary data
+*.tif binary
+*.edf binary
+*.png binary

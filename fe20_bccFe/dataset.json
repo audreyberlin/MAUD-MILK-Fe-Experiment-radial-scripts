@@ -1,0 +1,18 @@
+{
+
+    "2theta": [8,21],
+    "data_dir": "data/diff",
+    "data_ext": "2d.esg",
+    "data_group_size": 1,
+    "template_name": "template/template.par",
+    "meta_data": {
+    },
+    "phase_initialization": {
+        "_cell_length_a": [3.5587287, 2.8320618],
+        "_cell_length_b": [3.5587287, 2.8320618],
+        "_cell_length_c": [3.5587287, 2.8320618],
+        "_riet_par_cryst_size": [700, 615],
+        "_riet_par_rs_microstrain": [0.002,0.002],
+        "_pd_phase_atom_": [0.08, 0.92]
+    }
+}

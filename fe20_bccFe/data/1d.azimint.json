@@ -1,0 +1,48 @@
+{
+    "poni_file": [
+        "calibration/detector.poni"
+    ],
+    "do_mask": true,
+    "mask_file": [
+        "fe20_bccFe/data/diff/mask_full.edf"
+    ],
+    "do_dark": false,
+    "dark_file": [
+        ""
+    ],
+    "dark_norm": 1.0,
+    "do_bright": false,
+    "bright_file": [
+        ""
+    ],
+    "bright_norm": 1.0,
+    "data_ops": [
+        ""
+    ],
+    "do_polarization": false,
+    "polarization_factor": 0.99,
+    "do_2D": false,
+    "unit": "2th_deg",
+    "npt_radial": 2048,
+    "do_radial_range": true,
+    "radial_range": [
+        8,
+        21
+    ],
+    "npt_azimuth": 1,
+    "do_azimuthal_range": false,
+    "azimuth_range": [
+        0.0,
+        360.0
+    ],
+    "chi_discontinuity_at_0": true,
+    "do_solid_angle": false,
+    "do_remove_nan": true,
+    "error_model": "Poisson",
+    "method": [
+        "full",
+        "histogram",
+        "cython"
+    ],
+    "opencl_device": "cpu"
+}

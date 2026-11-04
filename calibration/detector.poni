@@ -1,0 +1,14 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis
+# Calibration done on Wed Jan 15 09:25:31 2025
+poni_version: 2.1
+Detector: Perkin
+Detector_config: {"pixel1": 0.0002, "pixel2": 0.0002, "orientation": 3}
+Distance: 0.4262341845004186
+Poni1: 0.1884691784130254
+Poni2: 0.20393945229652394
+Rot1: -0.019369836201960543
+Rot2: 0.007505843721226221
+Rot3: 0.0
+Wavelength: 4.8549999999999996e-11
+# Calibrant: CeO2
+# Image: fabio:///C:/Users/Test/Workshop/RdDAC_Fe/calibration/CeO2_20_04_2024-00003.tif
